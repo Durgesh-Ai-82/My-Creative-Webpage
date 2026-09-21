@@ -1,1 +1,1 @@
-alert("swagat nahi karoge hamara")
+alert("Dare to do something damm")
